@@ -23,7 +23,14 @@ La siguiente declaración tiene el propósito de clarificar el alcance y la inte
 
 * En resumen, esta investigación se lleva a cabo con el propósito de avanzar en el conocimiento científico y promover el desarrollo tecnológico responsable. Cualquier interpretación errónea o uso inadecuado de los resultados queda fuera de la intención y responsabilidad de las partes involucradas.
 
-## Instroducción
+## Introducción
+Las aplicaciones móviles han adquirido un papel fundamental en nuestras vidas cotidianas, enriqueciendo nuestras rutinas con una diversidad de servicios y funcionalidades inimaginables hasta hace poco. Estos adelantos tecnológicos nos otorgan la capacidad de supervisar y gestionar una variedad de actividades, como la geolocalización y las interacciones personales, generando una sinergia entre la tecnología y nuestra existencia diaria [3]. No obstante, este paradigma de conectividad y conveniencia no está exento de desafíos significativos, especialmente en lo que concierne a la privacidad y la seguridad de los usuarios [4].
+
+La profusión de aplicaciones móviles ha llevado consigo la proliferación de datos personales que son canalizados a través de estas plataformas, lo que, a su vez, ha despertado un cuestionamiento fundamental sobre cómo salvaguardar de manera efectiva la información privada de los usuarios. A medida que confiamos cada vez más en estas aplicaciones para gestionar aspectos cruciales de nuestras vidas, desde nuestras interacciones sociales hasta la administración de nuestras finanzas, la necesidad de proteger la confidencialidad y la integridad de nuestros datos se convierte en una prioridad apremiante.
+
+Dentro de este contexto, emerge una nueva dimensión de la tecnología: los dispositivos wearables. Estos dispositivos, que se integran de manera armónica con nuestras prendas de vestir y accesorios cotidianos, expanden aún más las fronteras de lo que las aplicaciones móviles pueden lograr. Permiten un seguimiento más profundo y una interacción más inmediata con nuestro entorno y nuestras actividades, llevando la conectividad a un nivel completamente nuevo [3]. No obstante, en este emocionante panorama de innovación y funcionalidad, también se perfilan cuestiones críticas de seguridad que no deben pasarse por alto.
+
+La seguridad de los dispositivos wearables y el software que los gobierna son áreas de creciente preocupación. A medida que estos dispositivos recopilan datos aún más íntimos y sensibles, desde nuestros patrones de sueño hasta nuestra salud física, se hace imperativo abordar las posibles vulnerabilidades que podrían poner en riesgo la privacidad y seguridad de los usuarios. La presente investigación tiene como objetivo explorar estas cuestiones, destacando las brechas de seguridad que podrían comprometer la integridad de las apliaciones wearables para el sistema operativo Android.
 
 ## Trabajos relacionados
 
