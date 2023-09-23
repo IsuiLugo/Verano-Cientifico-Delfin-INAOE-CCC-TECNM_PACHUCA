@@ -36,6 +36,12 @@ La seguridad de los dispositivos wearables y el software que los gobierna son á
 
 ## Metodología
 
+### Malware Injection with Metasploit
+### Análisis estático con Mobile Security Framework
+### Análisis dinámico con Mobile Security Framework
+### Técnicas de informática forense en Dispositivos Móviles
+### Multi Mobile Security Framewok (MMobfs)
+
 ## Resultados
 
 ## Conclusiones
